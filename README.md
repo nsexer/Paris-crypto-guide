@@ -1,4 +1,4 @@
-# A Cryptofriendly Guide To Paris - **EthCC **
+# A Cryptofriendly guide to Paris
 
 #### _brought to you by _[_Asseth_](http://www.asseth.fr/)_ & _[_VariabL_](https://variabl.io/)
 
