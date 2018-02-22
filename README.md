@@ -1,6 +1,4 @@
-# A Cryptofriendly guide to Paris
-
-_brought to you by _[_Asseth_](http://www.asseth.fr/)_ & _[_VariabL_](https://variabl.io/)![](/assets/banner.jpg)
+# B_rought to you by _[_Asseth_](http://www.asseth.fr/)_ & _[_VariabL_](https://variabl.io/)![](/assets/banner.jpg)
 
 * What? \[**EthCC**\]\([http://ethcc.io/](https://l.facebook.com/l.php?u=http%3A%2F%2Fethcc.io%2F&h=ATPAnHoX9kl9FahnU57TDgCbX4TkB7WIMzvyEj6fqTL-4bll-a_T4bjNiK-rQZPTtFc_0VdBkHPLp67Tb5vg79CXrLRpymhvF5h2PpmgHeSHhlU8sjgHl-C3hmiFmV4qAoyJqDKof5hoDqzPsejv_69GgQ)\) is the biggest European conference on Ethereum.
 
