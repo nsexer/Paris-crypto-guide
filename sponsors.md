@@ -1,19 +1,18 @@
-## We are very proud to announce our sponsors for this conference:
+## We are very proud to announce our sponsors for this conference: {#sponsors}
 
-![](/assets/EthCC Sponsors.jpg)  
-
+![](/assets/EthCC Sponsors.jpg)
 
 ### Gold sponsor
 
-ConsenSys \([https://new.consensys.net/](https://l.facebook.com/l.php?u=https%3A%2F%2Fnew.consensys.net%2F&h=ATMp9lcAyV2NBF20iTdOiZMHohqk1aUxqZefERDHkefVKiBldZRp4ctmvsIFTW5yl6DOMBHJpgWrwWuICc23uL-ZmxCVYq4mo77M63saUqc9i6M6-M-8ztsZ4bmN9MOx5exiJy3tYogWLL1-kdlkb-iAew)\)  
-  
+ConsenSys \([https://new.consensys.net/](https://l.facebook.com/l.php?u=https%3A%2F%2Fnew.consensys.net%2F&h=ATMp9lcAyV2NBF20iTdOiZMHohqk1aUxqZefERDHkefVKiBldZRp4ctmvsIFTW5yl6DOMBHJpgWrwWuICc23uL-ZmxCVYq4mo77M63saUqc9i6M6-M-8ztsZ4bmN9MOx5exiJy3tYogWLL1-kdlkb-iAew)\)
+
 ConsenSys is a venture production studio and the leading global blockchain technology firm. Our mission is to transform the emerging economic, social, and political operating systems of the planet by building and scaling applications, disruptive startups, and enterprise software products empowered by decentralized technology, specifically Ethereum.
 
 Headquartered in Brooklyn, NY, USA, ConsenSys was founded in 2014 has tripled in size every year since then. Today, we bring together close to 600 team members in 27 countries including top-tier, passionate engineers, product managers, designers, entrepreneurs and consultants. We have offices in the USA, Canada, Brazil, UK, France, Germany, Dubai, South Africa, Singapore, Australia, and other locations.
 
 Our Enterprise team is responsible for helping corporate clients and governments identify how blockchain technology is likely to transform their industry, and subsequently developing and delivering innovative, decentralized applications and digital ventures. We are involved in some of the most innovative blockchain projects in the world: the City of Dubai's Smart Dubai blockchain strategy; project UBIN \(a decentralized interbank settlement system\) with the Monetary Authority of Singapore; as well as high-profile cooperations with JP Morgan, Banco Santander and BHP Billiton. Our teams are busy at work building the future of identity, financial markets, commerce, energy, security and infrastructure, and more.
 
-## Silver sponsors 
+## Silver sponsors
 
 * Status \([https://status.im/](https://l.facebook.com/l.php?u=https%3A%2F%2Fstatus.im%2F&h=ATNyOTKCMs7P9HeCChUVwGfdzdCOJmgshKd5M23oKj_vD5V6fu-3Z71ELHajFmnu2E2Y80yS8Lr1JAp2_woNJdsTmMKcBmnZ0CuHWuKqCNwJ0kZW3xF5RnTCeFoWd8DCG_pNyDzm5BWw6NOWV_xE33dxqA)\)
 
@@ -33,8 +32,6 @@ iExec plans to decentralize the cloud computing market, which will power the fut
 
 Aragon is a community driven open source project that emphasizes transparency and governance. aragonOS framework powers the Aragon Core, a governance platform for decentralized organizations. aragonOS is a Ethereum smart contract development framework with focus on upgradeability. It's architecture design works with any complex DApp or protocol. It allows extendability with the ability to plug in any Aragon governance module. The project's goal is to enable a borderless, permissionless and more efficient creation of value. A new version of Aragon Core released during February at [https://aragon.one/](https://l.facebook.com/l.php?u=https%3A%2F%2Faragon.one%2F&h=ATOeS2o6-_HPPgVDfU-9KX9agRjvavVOWUdTRNeE0YpJ0sNADhuVUOh6Zvlqk4glLwNvAkWObMML9hjNBDEib5VftJxMjIr1dIE0nM-3kbOr8RrnvHdBcO832K7_zZS5h9Rzil3nLKWJz-7TI81A4JNLmA)
 
-
-
 ## Bronze Sponsors
 
 * #### Chronologic
@@ -42,12 +39,11 @@ Aragon is a community driven open source project that emphasizes transparency an
 * #### Gnosis
 * #### DAOstack
 
-#### Iron Sponsors: 
+#### Iron Sponsors:
 
 • Infura  
 • Bitfly  
-• NapoleonX  
-
+• NapoleonX
 
 #### We greatly appreciate the support of our sponsors and their continued dedication to the ecosystem. We hope that EthCC attendees will take advantage of the conference to discover their fantastic services.
 
