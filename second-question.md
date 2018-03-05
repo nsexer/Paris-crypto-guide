@@ -17,11 +17,17 @@
 * [**L'As Du Fallafel** ](http://l-as-du-fallafel.zenchef.com/)- The two addresses of King Falafel appear in every single tourist guide to Paris, the food is so good that you might have to wait a while. \([\](http://l-as-du-fallafel.zenchef.com/%29%29 %28or King Falafel\); 32–34 Rue des Rosiers & 26 Rue des Rosiers, 75004 Paris
 * [**WenZhou**](https://www.yelp.fr/biz/wenzhou-paris\) - Chinese ultra cheap and friendly; 24 Rue de Belleville, 75020 Paris
 * [**Art du Raviolis**](https://www.yelp.fr/biz/l-art-du-ravioli-paris) - Great chinese restaurant for dumplings, cheap and delicious; 33 rue au Maire, 75003 Paris
+* [**Une glace à Paris**](http://uneglaceaparis.fr/web/) - Surprising ice-creams, where you can find original flavours, as the great smoked chocolate, 15 rue saint Croix de la Bretonnerie 75004 Paris
 
 ### Farther away from the venue
 
 * [**Le Coryllis**](https://www.tripadvisor.co.uk/Restaurant_Review-g187147-d1771557-Reviews-Le_Coryllis-Paris_Ile_de_France.html\) - Italian, plate full of delicious food for a good price, try the Montepulciao; 85 Rue des Martyrs, 75018 Paris
 * [**Bien élevé**](https://www.facebook.com/bieneleve/) - French high quality meat; 47 Rue Richer, 75009 Paris
+* [**Big Mamma Group**](https://www.bigmammagroup.com/fr/accueil) - Italian food with a great italian service, there are several around Paris, all equally good. Reservations are not possible on the phone,  you have to pass by on the same day after 7pm to reserve a table. -they have awesome veggie options-
+
+* [**So nat**](https://www.yelp.fr/biz/so-nat-paris)** - ** Amazing vegan food with faire prices, only opens at noon, 5 rue Bourdaloue, 75009 Paris
+
+* [**Bouillon Chartier**](http://www.bouillon-chartier.com/en/gallery) - Traditional french restaurant, with an antique and chaotic charm, faire prices, specially good for going in groups, it can be considered noisy, but you will be able to get big tables, make a reservation! 7 rue du Faubourg Montmartre \| 75009 Paris
 
 
 
