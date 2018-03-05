@@ -40,15 +40,25 @@ It's well known that Parisians are as\*holes, and we're not going to dispute tha
 
 Use CityMapper for iOS or Android for transportation in the city using public transport. Usual GPS based applications work fine.
 
-* **From the airports **\(Charles de Gaulle and Orly\):
+In order to pay for public transfer you have two options, one is buying single ride tickets \(references prices below\).
+
+The second option, is to get a _carte Navigo_, if you arrive to Charles de Gaulle airport you would be able to get the _carte Navigo \_right away - 5€- and charge a week package \_zone 1-5_, for 22,80€, this entitle you to unlimited use to all public transport \(RER -even from and to airports- metro, bus & tramways\)
+
+\*Note: for some strange reason, weeks for transport in Paris are  Monday to Sunday, - regardless the day of the week you buy it, it will expire Sunday midnight-, but still if you are using public transport to go to ethcc or you are planing to do some tourism, it may be a better option, even more if it rains as is predicted.
+
+* **From the airports **\(Charles de Gaulle -CDG- and Orly\):
 
 The easiest way from the airports to the city is Uber or taxi but they are costly \(40 to 60 € for the one-way trip to you hotel\).
 
 Other means of transportation include:
 
-RoissyBus or OrlyBus \(coaches from the airport to the center of Paris\), approx. 11 €
+RoissyBus \(coaches from  CDG airport to the center of Paris\)12 €
 
-Train: RER \(and OrlyVal from Orly airport\) to the city\), approx. 13 € \(from Orly\) or 10 € \(from Charles de Gaulle\)
+or OrlyBus \(coaches from Orly airport to the center of Paris\) 8,30 €
+
+Train: RER \(and OrlyVal from Orly airport\) to the city\), approx. 13 € \(from Orly\) or 10,30 € \(from Charles de Gaulle\)
+
+[Official website in english here](https://www.ratp.fr/en/titres-et-tarifs/airport-tickets)
 
 * **From a Train station**
 
@@ -97,6 +107,16 @@ No need to give tips at bars. In taxis, just hand €10 if the fare is €9.90�
 \* I'm in a hurry, asshole!: Je suis pressé, connard!
 
 \* Can I pay in crypto?: Puis-je payer en cryptomonnaie?
+
+## TOURIST TRICKS
+
+* **Eiffel Tower** As you can imagine, if you are planing to go up the Eiffel tower, lines for the elevator can take up to 3hs depending on the time of the year. Another less used option, is taking the stairs to go up, the ticket is cheaper, the line is norther and moves faster, and is safe to say, that if you are slightly sportive an have no impediments to take stairs, its doable and enjoyable.
+
+* [**Batobus**](http://www.batobus.com/en/batobus-pass.html) If you want to sight see all the amazing places around the Seine \(Eiffel Tower, Musée d'Orsay, St-Germain-des-Prés, Notre-Dame, Jardin des Plantes/Cité de la Mode et du Design, Hôtel-de-ville, Louvre, Champs-Élysées and Beaugrenelle\), and you want to avoid walking under rain, or you are just short on time, an easy and funny way is the public service  of bus-boats \(no tourist guides :\), jump-on / jump-off. If you got the _Carte Navigo_, you can get a preferential price of 11€ for a whole day, \(17€ without the Navigo pass\)
+
+* [**What to do in Paris**](https://quefaire.paris.fr) If you are just out of ideas and you can handle -or guess- some basic french reading, this website is a cool source of ideas, with good amount of filters, and good plans on art and music.
+
+* On the _**french baguette**_: Small tip on buying your bread at the boulangeries, if you want the real traditional french baguette recipe, the one invented in 1830, you have to ask for a _Tradition._
 
 #### Bonus:
 
