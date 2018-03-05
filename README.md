@@ -1,6 +1,6 @@
 # EthCC - A cryptofriendly guide to Paris
 
-### Brought to you by _[_Asseth_](http://www.asseth.fr/)_ & [_VariabL_](https://variabl.io/)![](/assets/banner.jpg)
+### Brought to you by [_Asseth_](http://www.asseth.fr/) & [_VariabL_](https://variabl.io/)![](/assets/banner.jpg)
 
 > ##### This guide provides few tips around the EthCC to ensure you have the best experience possible: it includes crypto-friendly places to eat, drink, sleep, shop and enjoy your time not only at the conference, but also around it.
 
