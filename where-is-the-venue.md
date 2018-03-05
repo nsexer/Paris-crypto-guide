@@ -1,6 +1,9 @@
 ## Where is the venue? ![](/assets/spotlight01.jpg)[EthCC](http://ethcc.io/) will take place at CNAM the 8th, 9th and 10th March, {#venue}
 
-but you can come before and hang out with Asseth \(see section "Meet blockchain minded people"\).
+And you can come before to hang out with Asseth \(see section "Meet blockchain minded people"\).
+
+* Here is a map of the venue \(+picture below\):   
+  [http://www.cnam-paris.fr/medias/fichier/plan-cnam-recto-verso\_1450089364192-pdf](http://www.cnam-paris.fr/medias/fichier/plan-cnam-recto-verso_1450089364192-pdf)   
 
 * The address is: **292 Rue Saint-Martin 75003, Paris **
 
@@ -12,6 +15,8 @@ but you can come before and hang out with Asseth \(see section "Meet blockchain 
   * Multiple streams : Scalability, Anonymity, Development tools, Governance Compliance...
   * Small workshops for developers & researchers
   * Networking and experience sharing
+
+![](/assets/Screen Shot 2018-03-05 at 11.12.00 AM.png)
 
 
 
