@@ -9,4 +9,5 @@
 * [Where to drink around the venue?](where-to-drink.md)
 * [Where to stay?](where-to-stay.md)
 * [Additional information](additional-information.md)
+* [Sponsors](sponsors.md)
 
