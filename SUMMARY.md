@@ -9,4 +9,5 @@
 * [Where to stay?](where-to-stay.md)
 * [Additional information](additional-information.md)
 * [Sponsors](sponsors.md)
+* [How to contribute to this guide?](how-to-contribute-to-this-guide.md)
 
