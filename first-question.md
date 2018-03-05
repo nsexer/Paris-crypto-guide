@@ -11,8 +11,7 @@ Sightseeing Map: [https://goo.gl/maps/QceXbM2rrG32](https://goo.gl/maps/QceXbM2r
 
 * [**Musée de la Chasse et de la Nature**](https://www.tripadvisor.fr/Attraction_Review-g187147-d232162-Reviews-Musee_de_la_Chasse_et_de_la_Nature-Paris_Ile_de_France.html) : Hunting museum with an impressive weapons & stuffed animal collections.
 
-* [**59 Rivoli**](https://www.59rivoli.org/homepage/) : A whole building of alternative art workshops and art exhibitions where you can generally find the artists working, if you are ever passing buy by Rivoli street... \(one of the mains for shopping\) no entrance ticket. 
+* [**59 Rivoli**](https://www.59rivoli.org/homepage/) : A whole building of alternative art workshops and art exhibitions where you can generally find the artists working, if you are ever passing buy by Rivoli street... \(one of the mains for shopping\) no entrance ticket.
 
-* 
 
 
