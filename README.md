@@ -10,7 +10,7 @@
 
 * **Where?** In Paris at the Conservatoire Nationale des Arts et Métiers \(CNAM\).
 
-* **How?** [Book your ticket here](https://www.weezevent.com/ethereum-community-conference)
+* **How?** ~~Book your ticket here~~ -&gt; the conference is [fully sold out](https://twitter.com/AssethFR/status/970578124567085056).
 
 * **Who is behind this?**  
   [**ASSETH**](https://www.asseth.fr/en/home/) is the organizer with the support of the Ethereum Foundation and the CNAM.  
