@@ -10,7 +10,7 @@
 
 * **Where?** In Paris at the Conservatoire Nationale des Arts et Métiers \(CNAM\).
 
-* **How?** [Book your ticket here](https://www.weezevent.com/ethereum-community-conference)
+* **How?** The conference is [fully sold out](https://twitter.com/AssethFR/status/970578124567085056).
 
 * **Who is behind this?**  
   [**ASSETH**](https://www.asseth.fr/en/home/) is the organizer with the support of the Ethereum Foundation and the CNAM.  
@@ -30,11 +30,12 @@ We are looking forward to seeing you all in March. Welcome to Paris! ♥
 
 1. [Where is the venue?](/where-is-the-venue.md)
 2. [What is the schedule?](/what-is-the-schedule.md)
-3. [What to do around the venue?](/first-question.md)
-4. [Where to eat around the venue?](/second-question.md)
-5. [Where to drink around the venue?](/where-to-drink.md)
-6. [Where to stay?](/where-to-stay.md)
-7. [Additional information](/additional-information.md)
+3. [What is the unofficial schedule?](/what-is-the-unofficial-schedule.md) 
+4. [What to do around the venue?](/first-question.md)
+5. [Where to eat around the venue?](/second-question.md)
+6. [Where to drink around the venue?](/where-to-drink.md)
+7. [Where to stay?](/where-to-stay.md)
+8. [Additional information](/additional-information.md)
 
 
 
