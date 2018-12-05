@@ -6,13 +6,13 @@
 
 * **Where?** In Paris at the Conservatoire Nationale des Arts et Métiers \(CNAM\).
 
-* **How?** The conference is [fully sold out](https://twitter.com/AssethFR/status/970578124567085056).
+* **How?** Tickets to come soon.
 
 * **Who is behind this?**  
   [**ASSETH**](https://www.asseth.fr/en/home/) is the organizer with the support of the Ethereum Foundation and the CNAM.  
   Asseth is a regulated French non-profit organization. It hosts free Ethereum workshops several times a month since early 2016, feeds [the Ethereum France website](https://www.ethereum-france.com/) and translates technical papers in French. Asseth also participates to various educational projects and [open-source projects](https://github.com/asset/).
 
-* A huge thanks to our [Sponsors ](/sponsors.md)for making this event a reality.
+* A huge thanks to our past [Sponsors ](/sponsors.md)for making this event a reality last time.
 
 Should you have any question don't hesitate to reach out to us: [contact@asseth.fr](https://www.gitbook.com/book/nsexer/ethcc-guide/edit#)
 

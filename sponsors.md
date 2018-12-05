@@ -1,4 +1,4 @@
-## We are very proud to announce our sponsors for this conference: {#sponsors}
+## We were very proud to announce these sponsors for the 2018 edition: {#sponsors}
 
 ![](/assets/EthCC Sponsors.jpg)
 
