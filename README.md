@@ -1,12 +1,8 @@
-# EthCC - A cryptofriendly guide to Paris
+### EthCC - A cryptofriendly guide to Paris![](/assets/banner.jpg)This guide provides few tips around the EthCC to ensure you have the best experience possible: it includes crypto-friendly places to eat, drink, sleep, shop and enjoy your time not only at the conference, but also around it.
 
-### Brought to you by [_Asseth_](http://www.asseth.fr/) & [_VariabL_](https://variabl.io/)![](/assets/banner.jpg)
+* **What?** [**EthCC**](http://ethcc.io/) is the biggest conference on Ethereum after DevCon.
 
-> ##### This guide provides few tips around the EthCC to ensure you have the best experience possible: it includes crypto-friendly places to eat, drink, sleep, shop and enjoy your time not only at the conference, but also around it.
-
-* **What?** [**EthCC**](http://ethcc.io/) is the biggest European conference on Ethereum.
-
-* **When?** The 8th, 9th and 10th March 2018
+* **When?** The 5th, 6th, 7th and 8th March 2019
 
 * **Where?** In Paris at the Conservatoire Nationale des Arts et Métiers \(CNAM\).
 
