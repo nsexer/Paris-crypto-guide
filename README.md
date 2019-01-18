@@ -1,4 +1,4 @@
-### EthCC - A cryptofriendly guide to Paris![](/assets/banner.jpg)This guide provides few tips around the EthCC to ensure you have the best experience possible: it includes crypto-friendly places to eat, drink, sleep, shop and enjoy your time not only at the conference, but also around it.
+#### EthCC - A cryptofriendly guide to Paris![](/assets/banner.jpg)This guide provides few tips around the [EthCC](https://ethcc.io/) and [https://blockchainweek.fr/](https://blockchainweek.fr/) to ensure you have the best experience possible: it includes crypto-friendly places to eat, drink, sleep, shop and enjoy your time not only at the conference, but also around it.
 
 * **What?** [**EthCC**](http://ethcc.io/) is the biggest conference on Ethereum after DevCon.
 
