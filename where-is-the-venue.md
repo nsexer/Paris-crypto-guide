@@ -1,4 +1,4 @@
-## Where is the venue? ![](/assets/spotlight01.jpg)[EthCC](http://ethcc.io/) will take place at CNAM the 5th, 6th, 7th & 8th March, 2019 {#venue}
+## Where are the venues? ![](/assets/spotlight01.jpg)[EthCC](http://ethcc.io/) will take place at CNAM the 5th, 6th, 7th & 8th March, 2019 {#venue}
 
 And you can come before to hang out with Asseth \(see section "Meet blockchain minded people"\).
 

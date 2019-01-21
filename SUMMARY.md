@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Where is the venue?](where-is-the-venue.md)
+* [Where are the venues?](where-is-the-venue.md)
 * [What is the schedule?](what-is-the-schedule.md)
 * [What is the unofficial schedule?](what-is-the-unofficial-schedule.md)
 * [How to keep up to date?](how-to-keep-up-to-date.md)

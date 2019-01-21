@@ -1,6 +1,6 @@
 # Information and communication channels
 
-* Main announcements: [https://twitter.com/AssethFR](https://twitter.com/AssethFR)
+* Main announcements: [https://twitter.com/AssethFR](https://twitter.com/AssethFR) and [https://twitter.com/ComBlockFR](https://twitter.com/ComBlockFR)
 * Twitter chatter: search for and use [\#ETHCC](https://twitter.com/search?f=tweets&vertical=default&q=%23Ethcc&src=typd)
 
 ## At the conference
