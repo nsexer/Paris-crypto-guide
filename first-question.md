@@ -1,4 +1,4 @@
-# What to do around the venue?![](/assets/Paris Eth Gitbook.jpg)For sightseeing in the neighborhood, there is:
+# What to do around the venues?![](/assets/Paris Eth Gitbook.jpg)For sightseeing in the neighborhood, there is:
 
 Sightseeing Map: [https://goo.gl/maps/QceXbM2rrG32](https://goo.gl/maps/QceXbM2rrG32)
 

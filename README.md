@@ -26,7 +26,7 @@ We are looking forward to seeing you all in March. Welcome to Paris! ♥
 
 # Table of Contents
 
-1. [Where is the venue?](/where-is-the-venue.md)
+1. [Where are the venues?](/where-is-the-venue.md)
 2. [What is the schedule?](/what-is-the-schedule.md)
 3. [What is the unofficial schedule?](/what-is-the-unofficial-schedule.md) 
 4. [What to do around the venue?](/first-question.md)

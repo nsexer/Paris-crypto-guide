@@ -1,4 +1,4 @@
-# Where to eat around the venue?![](/assets/ethcc food.jpg)Paris is the food capital of the world
+# Where to eat around the venues?![](/assets/ethcc food.jpg)Paris is the food capital of the world
 
 #### Restaurants map: [https://goo.gl/maps/6aPbsBxyBEM2](https://goo.gl/maps/6aPbsBxyBEM2)
 

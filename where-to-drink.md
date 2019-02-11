@@ -1,4 +1,4 @@
-# Where to drink around the venue?![](/assets/Drinks Ethcc.jpg)
+# Where to drink around the venues?![](/assets/Drinks Ethcc.jpg)
 
 #### **Drinking maps:** [https://goo.gl/maps/CYJm9DmJVcB2](https://goo.gl/maps/CYJm9DmJVcB2)
 
@@ -27,7 +27,7 @@
 
 * [**Le Comptoir General**](http://www.lecomptoirgeneral.com) This place is hidden at the end of an small entrance, you could never guess what is waiting for you at the end of this small path, this bar is huge very unique place in Paris to go for drinks, or  brunch, if you are planning to go in a big group, you can make a reservation for a living-room like table...  80 quai de Jemmapes, 75010 Paris
 
-* [**Animaux Bars**](http://animaux.bar/l-ours) \(L'Ours, Le Renard\) If you fancy good cocktails, and friendly service, you may try one of these bars. 
+* [**Animaux Bars**](http://animaux.bar/l-ours) \(L'Ours, Le Renard\) If you fancy good cocktails, and friendly service, you may try one of these bars.
 
 #### **A note on alcohol:**
 
@@ -35,6 +35,6 @@ It is ok to drink/buy drinks if you are 18 and over. Most of the places where yo
 
 Drinking in the street is tolerated but people will probably look down on you. Being drunk in the street is quite tolerated as long as you don’t bother anyone, otherwise the Police can arrest you for “ivresse manifeste sur la voie publique” \(obvious drunk behavior on public street\).
 
-**            
+**              
 **
 
