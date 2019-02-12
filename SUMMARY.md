@@ -11,5 +11,4 @@
 * [Where to stay?](where-to-stay.md)
 * [Additional information](additional-information.md)
 * [How to contribute to this guide?](how-to-contribute-to-this-guide.md)
-* [2018 Sponsors](sponsors.md)
 
