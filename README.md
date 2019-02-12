@@ -1,6 +1,6 @@
 #### A cryptofriendly guide to Paris![](/assets/banner.jpg)This guide provides few tips around the [Community Blockchain Week](https://blockchainweek.fr/) and [EthCC](https://ethcc.io/) to ensure you have the best experience possible: it includes crypto-friendly places to eat, drink, sleep, shop and enjoy your time not only at the conference, but also around it.
 
-* **What?** The [Community Blockchain Week](https://blockchainweek.fr/) is a blockchain tech-focused initiative organized voluntarily by the community, with [**EthCC**](http://ethcc.io/) as a flagship event DevCon.
+* **What?** The [Community Blockchain Week](https://blockchainweek.fr/) is a blockchain tech-focused initiative organized voluntarily by the community, with [**EthCC**](http://ethcc.io/) as a flagship event.
 
 * **When?** The 5th, 6th, 7th and 8th March 2019
 
