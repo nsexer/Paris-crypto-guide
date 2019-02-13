@@ -4,6 +4,7 @@
 
 * [**Le Parisien**](https://www.tripadvisor.fr/Restaurant_Review-g187147-d4325881-Reviews-Le_Parisien-Paris_Ile_de_France.html\) - French bar, great food and people ; 337, rue Saint-Martin – 75003 Paris
 * [**Ô Comptoir du Sud-Ouest**](http://o-comptoir-du-sud-ouest.lafourchette.rest/en_GB/) Good southern French tapas; 167, rue Saint-Martin – 75003 Paris
+* [Le Bouillon Chartier](https://www.bouillon-chartier.com/fr/) So French, Very good, Much recommended 
 * [**Cinq fois plus de piment**](https://www.google.fr/maps/place/Cinq+Fois+Plus/@48.8623127,2.3521941,15z/data=!4m2!3m1!1s0x0:0x9d369da462d5e13b?sa=X&ved=0ahUKEwiSgqb2rMbZAhVSK1AKHeDID4EQ_BIIwQEwCg) - Delicious Chinese spicy food \(spices scales from 0 to 5, 5 not being recommended\): 170, rue Saint-Martin – 75003 Paris
 * [**Maison Barthouil**](https://www.google.fr/maps/place/BARTHOUIL/@48.863105,2.3626204,15z/data=!4m2!3m1!1s0x0:0xab2e58e706e0c54b?sa=X&ved=0ahUKEwjDn_CLrcbZAhVCJlAKHVEsCgUQ_BIIjgEwCg) - Great french products \(food to go\); 41, rue Charlot – 75003 Paris
 * [**Le Petit Commines**](http://po.st/CKwNpu) - 16, rue Commines – 75003 Paris

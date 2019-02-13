@@ -1,15 +1,15 @@
-# What is the unofficial schedule?
+# What is the Community Blockchain Week schedule?![](/assets/06ac6dde-c4e8-4f85-8bfb-a307736b9742.jpg)
 
-# ![](/assets/06ac6dde-c4e8-4f85-8bfb-a307736b9742.jpg)
+## Events
 
-## Side-events
+Events during the Community Blockchain week are organized by the community. You can see the full list [HERE](https://blockchainweek.fr/events/).  
+Anyone can either [attend to the listed events](https://blockchainweek.fr/events), workshops, meetups, hackathons, conferences and parties during the week, or [register their own](https://nathansexer.typeform.com/to/j5Ila2).
 
-Hosting your own?
+_Disclaimer: only obvious scammy projects and ICO promoting events will be filtered._
 
 ### Make sure your register yours on [https://blockchainweek.fr/](https://blockchainweek.fr/)
 
-Since so many Ethereum project teams are coming to Paris, this is THE moment to have specific mini-meetups, drinks and dinners to get to meet the people IRL you have been interacting with online.  
-
+Since so many Ethereum project teams are coming to Paris, this is THE moment to have specific mini-meetups, drinks and dinners to get to meet the people IRL you have been interacting with online.
 
 Also check the "[Contribution](/how-to-contribute-to-this-guide.md)" section.
 
@@ -22,5 +22,6 @@ Kickback has been tried at [various side events during DevCon4](https://medium.c
 Please read [the event organiser guide](https://medium.com/wearekickback/kickback-event-organiser-guide-c2146c12defb), and request [here](https://docs.google.com/forms/d/e/1FAIpQLSe2RX1yCpGomlG8JI0GiNuUFdWZIyLvCa4YM5VNR7Md4hkqWQ/viewform) if you are interested.
 
 ## 
+
 
 
