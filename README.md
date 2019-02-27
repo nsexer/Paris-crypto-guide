@@ -2,7 +2,7 @@
 
 * **What?** The [Community Blockchain Week](https://blockchainweek.fr/) is a blockchain tech-focused initiative organized voluntarily by the community, with [**EthCC**](http://ethcc.io/) as a flagship event.
 
-* **When?** The 5th, 6th, 7th and 8th March 2019
+* **When?** The 5th, 6th and 7th March 2019
 
 * **Where?** In Paris,  at the [CNAM](https://www.google.com/maps/place/Conservatoire+national+des+arts+et+métiers/@48.866746,2.3466766,15z/data=!4m8!1m2!2m1!1scnam!3m4!1s0x47e66e0556a60823:0x46dad820509383bc!8m2!3d48.866746!4d2.3554313) and various [other locations](https://blockchainweek.fr/).
 
