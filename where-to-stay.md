@@ -1,6 +1,6 @@
 # Where to stay?![](/assets/StayEthCC.jpg)
 
-If you're planning on staying in Paris for more than three days, you'll probably turn to **Airbnb** rather than looking for a hotel. This is a wise decision, particularly when you consider how overpriced Parisian hotels are and that early Spring is already tourist season.
+If you're planning on staying in Paris for more than three days, you'll probably turn to **Airbnb** rather than looking for a hotel. This is a wise decision, particularly when you consider how overpriced Parisian hotels are and that early spring is already tourist season.
 
 #### If you plan on booking an hotel, [BTU-Hotel to offer you special offers on room](http://btu-hotel.com/) \(mention EthCC in the search bar\)
 
