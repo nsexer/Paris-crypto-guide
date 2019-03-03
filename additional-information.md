@@ -9,7 +9,7 @@ Also, "[**Le Marais**](https://www.google.com/maps/place/Le+Marais,+Paris/@48.86
 
 Although it can depend on which neighborhood you're in, generally Paris is very welcoming for LGBT people, and it's very unlikely that you'll have any trouble for holding hands with your partner when you travel in the center \(1-10th arrondissement\). The most gay-friendly neighborhood is Le Marais \(4th arrondissement\), which is in the center of Paris.
 
-There were a lot of people in France who were reluctant to legalize same-sex marriage, those people do not represent a majority in Paris. However, it is generally recommended to avoid any emotional demonstrations in the arrondissements of the north of Paris \(17-20th arrondissement\).
+There were a lot of people in France who were reluctant to legalize same-sex marriage, those people do not represent a majority in Paris. However, it is generally recommended to avoid public displays of affection in the arrondissements of the north of Paris \(17-20th arrondissement\).
 
 ## MEET BLOCKCHAIN MINDED PEOPLE
 
