@@ -44,7 +44,7 @@ In order to pay for public transfer you have two options, one is buying single r
 
 The second option, is to get a _carte Navigo_, if you arrive to Charles de Gaulle airport you would be able to get the _carte Navigo \_right away - 5€- and charge a week package \_zone 1-5_, for 22,80€, this entitle you to unlimited use to all public transport \(RER -even from and to airports- metro, bus & tramways\)
 
-\*Note: for some strange reason, weeks for transport in Paris are  Monday to Sunday, - regardless the day of the week you buy it, it will expire Sunday midnight-, but still if you are using public transport to go to ethcc or you are planing to do some tourism, it may be a better option, even more if it rains as is predicted.
+\*Note: for some strange reason, weeks for transport in Paris are  Monday to Sunday, - regardless the day of the week you buy it, it will expire Sunday midnight-, but still if you are using public transport to go to ethcc or you are planning to do some tourism, it may be a better option, even more if it rains as is predicted.
 
 * **From the airports **\(Charles de Gaulle -CDG- and Orly\):
 
