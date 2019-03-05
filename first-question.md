@@ -2,7 +2,8 @@
 
 Sightseeing Map: [https://goo.gl/maps/QceXbM2rrG32](https://goo.gl/maps/QceXbM2rrG32)
 
-* Hang out in [**le Marais**](https://en.wikipedia.org/wiki/Le_Marais), one of the best Parisian pedestrian district of Paris, full of small shops, places to eat and drink.
+* Hang out in [**le Marais**](https://en.wikipedia.org/wiki/Le_Marais), one of the best Parisian pedestrian district of Paris, full of small shops, places to eat and drink. You can also get a hair cut in Le Marais from the hispser spot [**Bonhomme**](http://www.bonhomme.com) with 10% discount from #EthCC sponsor [**Stake Capital**](https://www.stake.capital). More info can be found [**here**](https://twitter.com/StakeCapital/status/1102539873335083008)
+
 * [**The CNAM Museum**](http://www.arts-et-metiers.net/les-collections) is dedicated to innovation and technology and located on the very site of the venue. The collections include multiple engines, the first planes, cars, and it notably has a section dedicated to the Statue of Liberty with a man-sized version of the statue and explanation on how it was built and brought to NYC.
 * [**La Gaïté Lyrique**](https://gaite-lyrique.net/en) is a Former Operetta theater then transformed into a leisure park and a center for digital culture \(in front of the CNAM\)
 * [**Centre Pompidou**](https://www.centrepompidou.fr/en) National modern art museum: great exhibitions with a great view. Must-see. If for some reason you don't want to see the exhibition, but you want to enjoy the view, when standing facing the museum, you will see an elevator door on the left, you just need to say you are going to have a drink to the _Georges_ -restaurant at the rooftop- and you will be able to enjoy the view with a drink-
