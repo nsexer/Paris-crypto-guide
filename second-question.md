@@ -1,5 +1,9 @@
 # Where to eat around the venues?![](/assets/ethcc food.jpg)Paris is the food capital of the world
 
+## Panvala Ally Guide
+
+[Panvala](https://www.panvala.com) uses tokens to organize people who want to make Ethereum safer. The Ally Guide has a list of merchants you can shop at to help us increase donations towards work that scales the network and secures the code that runs on it. For instance, [TWO Cafe](https://two-paris.com/) will donate 5% of your purchases towards making Ethereum safer. Each time you shop at any of the seven businesses in the Ally Guide and email us your receipt, you can earn an ERC721 badge and a physical badge you can wear. For more information, check out the [Spring 2019 issue of Ally Guide Paris](https://storage.googleapis.com/instapage-user-media/b75396d2/40767181-0-Ally-Guide-Paris-Spr.pdf).
+
 #### Restaurants map: [https://goo.gl/maps/6aPbsBxyBEM2](https://goo.gl/maps/6aPbsBxyBEM2)
 
 * [**Le Parisien**](https://www.tripadvisor.fr/Restaurant_Review-g187147-d4325881-Reviews-Le_Parisien-Paris_Ile_de_France.html\) - French bar, great food and people ; 337, rue Saint-Martin – 75003 Paris
