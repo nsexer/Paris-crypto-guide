@@ -1,8 +1,8 @@
-# What is the Community Blockchain Week schedule?![](/assets/06ac6dde-c4e8-4f85-8bfb-a307736b9742.jpg)
+# What is the France Blockchain Week schedule?![](/assets/06ac6dde-c4e8-4f85-8bfb-a307736b9742.jpg)
 
 ## Events
 
-Events during the Community Blockchain week are organized by the community. You can see the full list [HERE](https://blockchainweek.fr/events/).  
+Events during the France Blockchain week are organized by the community. You can see the full list [HERE](https://blockchainweek.fr/events/).  
 Anyone can either [attend to the listed events](https://blockchainweek.fr/events), workshops, meetups, hackathons, conferences and parties during the week, or [register their own](https://nathansexer.typeform.com/to/j5Ila2).
 
 _Disclaimer: only obvious scammy projects and ICO promoting events will be filtered._

@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Where are the venues?](where-is-the-venue.md)
-* [What is the Community Blockchain Week schedule?](what-is-the-unofficial-schedule.md)
+* [What is the France Blockchain Week schedule?](what-is-the-unofficial-schedule.md)
 * [How to keep up to date?](how-to-keep-up-to-date.md)
 * [What to do around the venues?](first-question.md)
 * [Where to eat around the venues?](second-question.md)
