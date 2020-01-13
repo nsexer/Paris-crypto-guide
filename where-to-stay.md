@@ -8,5 +8,5 @@ The best neighborhood \(cheapest\) to head to is probably Charonne, especially i
 
 If you really must stay in a hotel, [**les Piaules**](http://lefooding.com/en/bedrooms-hotels/hotel-les-piaules-paris-2\) is both very cheap and close to the venue.
 
-For a more expensive and comfy experience we suggest [**Le Citizen**](http://lefooding.com/en/chambres-hotels\ )** **hotel or basically anything you can fin on booking.com
+For a more expensive and comfy experience we suggest [**Le Citizen**](http://lefooding.com/en/chambres-hotels\ )** **hotel or basically anything you can find on booking.com
 
